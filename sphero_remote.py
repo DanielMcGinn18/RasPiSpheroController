@@ -1,3 +1,4 @@
+# Written by Dan McGinn
 # Tufts CEEO 2018
 # BB8_driver Library: https://github.com/jjinking/SpheroBB8-python/blob/master/BB8_driver.py
 
