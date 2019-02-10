@@ -1,5 +1,5 @@
-#Sphero Remote Control for Raspberry Pi
-##Designed by interns at the Tufts CEEO in summer 2018
+# Sphero Remote Control for Raspberry Pi
+## Designed by researchers at the Tufts CEEO in Summer 2018
 
 Python Files:
 * BB8_driver.py - <a href="https://github.com/jjinking/SpheroBB8-python/blob/master/BB8_driver.py">Library used to implement high-level controls</a>
