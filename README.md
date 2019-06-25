@@ -18,8 +18,10 @@ CAD Files:
 * Raspberry Pi case for simple controller
 
 To install bluepy run:
-```sudo apt-get install python-pip libglib2.0-dev```
-```sudo pip install bluepy```
+```
+sudo apt-get install python-pip libglib2.0-dev
+sudo pip install bluepy
+```
 
 Add the MAC address of your sphero to line 10 of BB8_driver.py
 
